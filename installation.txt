@@ -1,0 +1,2 @@
+D:\software\Git
+C:\Python34
